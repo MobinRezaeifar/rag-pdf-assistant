@@ -1,0 +1,10 @@
+langchain
+chromadb
+sentence-transformers
+transformers
+faiss-cpu
+pdfminer.six
+tqdm
+pypdf
+numpy
+requests
